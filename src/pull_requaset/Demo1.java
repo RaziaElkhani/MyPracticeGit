@@ -11,8 +11,7 @@ public static void main(String[] args) {
 	getNum(2,4);
 	getNum(9,5);
 	getNum(5,8);
-	getNum(5,5);
-	getNUm(7,7);
+	
 }
 public static void getNum(int a,int v) {
 	System.out.println(a*v);
