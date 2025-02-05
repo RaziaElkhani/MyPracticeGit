@@ -11,6 +11,8 @@ public static void main(String[] args) {
 	getNum(2,4);
 	getNum(9,5);
 	getNum(5,8);
+	getNum(3,3);
+	getNum(4,4);
 	
 }
 public static void getNum(int a,int v) {
