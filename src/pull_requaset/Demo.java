@@ -5,6 +5,7 @@ public static void main(String[] args) {
 	String city []= {"Dublin","SanRamon","Danvil","Concord","Martiniz"};
 	for(String c:city) {
 		System.out.println(c);
+		System.out.println("SanRamon");
 		
 		getNum(2,6,5);
 		getNum(3,5,6);
