@@ -23,6 +23,10 @@ public static void getNum(int a,int b,int c) {
 public static int getResult(int num , String country) {
 	int result =0;
 	
+	if (num>0 && country =="USA") {
+		System.out.println("You can get license ");
+	}
+	
 	
 	return result;
 }
