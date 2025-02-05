@@ -6,6 +6,9 @@ public static void main(String[] args) {
 	for(String c:city) {
 		System.out.println(c);
 		System.out.println("SanRamon");
+
+		char gender ='M';
+		double price =222.22;
 		
 		getNum(2,6,5);
 		getNum(3,5,6);
