@@ -1,6 +1,7 @@
 package pull_requaset;
 
 public class Demo {
+
 	public static void main(String[] args) {
 		String city[] = { "Dublin", "SanRamon", "Danvil", "Concord", "Martiniz" };
 		for (String c : city) {
